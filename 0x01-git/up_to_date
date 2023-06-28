@@ -1,1 +1,2 @@
+echo git push > up_to_date
 git push
